@@ -1,3 +1,2 @@
-tkinter
+tk
 tkcalendar
-sqlite3
